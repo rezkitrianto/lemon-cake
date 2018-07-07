@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92fdf39d-e7fe-4dfe-8dd1-63087b6041ec" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data_KM84_2/reckless2.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data_KM84_2/reckless3.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data_KM84_2/reckless4.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data_KM84_2/slow1.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data_KM84_2/slow2.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data_KM84_2/slow3.mp4" beforeDir="false" />
-    </list>
+    <list default="true" id="92fdf39d-e7fe-4dfe-8dd1-63087b6041ec" name="Default" comment="" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
